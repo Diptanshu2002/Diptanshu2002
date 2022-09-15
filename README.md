@@ -69,7 +69,7 @@
 <a href="https://github.com/Diptanshu2002" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diptanshu-mandal-9a54b11b7/" target="_blank">
+<a href="https://linkedin.com/in/diptanshu-mandal-9a54b11b7" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/idiptanshu_mandal" target="_blank">
