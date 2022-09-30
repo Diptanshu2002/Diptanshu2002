@@ -87,15 +87,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
+## Profile Views
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3164dybug6bf2zvfh4xkhvjb3ike&cover_image=false&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Diptanshu2002&&style=flat-square" align="center" />
 </div>  
@@ -103,14 +96,5 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
 
